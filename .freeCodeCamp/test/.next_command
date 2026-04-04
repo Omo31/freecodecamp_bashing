@@ -84,3 +84,4 @@ help if
 help
 help [[
 help test
+./countdown.sh 5
