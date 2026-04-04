@@ -370,3 +370,4 @@ git status
 clear
 ./bingo.sh 3
 ./bingo.sh 3
+printenv
