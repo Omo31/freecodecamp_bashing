@@ -2,8 +2,8 @@
 # Bingo Number Generator
 echo -e "\n~~ Bingo Number Generator ~~\n"
 
-'''Back in your script, use the RANDOM variable to set NUMBER to a 
-random number instead of 5'''
+'''The RANDOM variable will generate a random number between 0 and 32767. You can use the 
+modulus operator to make it in the range you want. In your script, change the NUMBER variable to $RANDOM%75'''
 
-NUMBER=$RANDOM
+NUMBER=$RANDOM%75
 echo $NUMBER
