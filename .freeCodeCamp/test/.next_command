@@ -371,3 +371,8 @@ clear
 ./bingo.sh 3
 ./bingo.sh 3
 printenv
+clear
+echo LANG
+echo /LANG
+echo LANG
+echo $LANG
