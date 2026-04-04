@@ -141,3 +141,9 @@ git status
 git commit -m "My first freecodecamp bash script"
 git add
 git add .
+git status
+git commit -m "My first freecodecamp bash script"
+git remote add origin https://github.com/Omo31/freecodecamp_bashing.git
+git branch -M main
+git push -u origin main
+clear
