@@ -158,3 +158,19 @@ clear
 clear
 ./countdown.sh 10
 help
+./countdown.sh 4
+./countdown.sh 17
+./countdown.sh 6
+clear
+./countdown.sh 7
+clear
+./countdown.sh 10
+clear
+./countdown.sh 1
+clear
+./countdown.sh 3
+./countdown.sh 9
+clear
+./countdown.sh 16
+clear
+ls --color=auto /
