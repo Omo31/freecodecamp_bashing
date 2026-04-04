@@ -386,3 +386,11 @@ clear
 __vsc_prompt_cmd_original
 ./bingo.sh
 ./bingo.sh
+clear
+./bingo.sh 10
+__vsc_prompt_cmd_original
+./bingo.sh 10
+clear
+__vsc_prompt_cmd_original
+./bingo.sh
+__vsc_prompt_cmd_original
