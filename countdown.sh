@@ -11,13 +11,14 @@ then
     done
  
    '
-'''Add a while loop below the I variable you made. The condition should be $I -ge 0 and you 
-should echo the I variable in the do statements.'''
+'''I never changes here, so you would have an infinite loop. You can subtract one from I with double parenthesis (((...))) and the -- operator. In your while loop, add (( I-- ))
+ after you echo $I to subtract one from I on each pass.'''
 I=$1
   while [[ $I -ge 0 ]]
   do
     echo $I
     ((I--))
+    sleep 1
   done
   echo Include a positive integer as the first argument.
 fi
