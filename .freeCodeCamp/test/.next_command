@@ -380,3 +380,8 @@ clear
 declare -p
 clear
 echo $RANDOM
+./bingo.sh 10
+clear
+./bingo.sh
+__vsc_prompt_cmd_original
+./bingo.sh
