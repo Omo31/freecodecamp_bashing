@@ -118,3 +118,4 @@ clear
 [[ -a questionnaire.sh ]]
 help test
 [[ -x countdown.sh ]]
+help [[
