@@ -363,3 +363,8 @@ clear
 touch bingo.sh
 chmod +x bingo.sh
 git add .
+git status
+git commit -m " The bingo program added"
+git push
+git status
+clear
