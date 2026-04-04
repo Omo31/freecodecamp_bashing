@@ -9,11 +9,15 @@ then
       echo $i
       sleep 1
     done
-    '
+ 
+   '
+'''Add a while loop below the I variable you made. The condition should be $I -ge 0 and you 
+should echo the I variable in the do statements.'''
 I=$1
   while [[ $I -ge 0 ]]
   do
     echo $I
+    ((I--))
   done
   echo Include a positive integer as the first argument.
 fi
