@@ -174,3 +174,4 @@ clear
 ./countdown.sh 16
 clear
 ls --color=auto /
+ls --color=auto /bin
