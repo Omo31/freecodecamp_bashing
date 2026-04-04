@@ -196,3 +196,6 @@ clear
 ./countdown.sh 14
 clear
 ./countdown.sh 3
+clear
+./countdown.sh 3
+./countdown.sh 3
