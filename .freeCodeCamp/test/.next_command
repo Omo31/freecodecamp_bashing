@@ -134,3 +134,10 @@ clear
 ./countdown.sh the
 ./countdown.sh -56
 help
+clear
+git init
+ls --color=auto -l
+git status
+git commit -m "My first freecodecamp bash script"
+git add
+git add .
