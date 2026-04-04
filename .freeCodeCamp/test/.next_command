@@ -125,3 +125,6 @@ help test
 clear
 [[ -x countdown.sh || 5 -le 4 ]]
 ./countdown.sh 1
+./countdown.sh 23
+./countdown.sh 4
+./countdown.sh the
