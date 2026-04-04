@@ -176,3 +176,6 @@ clear
 ls --color=auto /
 ls --color=auto /bin
 man sleep
+clear
+man sleep
+sleep 3
