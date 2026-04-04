@@ -40,3 +40,5 @@ echo hello bash
 touch questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
+__vsc_prompt_cmd_original
+which bash
