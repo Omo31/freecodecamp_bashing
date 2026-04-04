@@ -121,3 +121,6 @@ help test
 help [[
 clear
 [[ -x countdown.sh && 5 -le 4 ]]
+help test
+clear
+[[ -x countdown.sh || 5 -le 4 ]]
