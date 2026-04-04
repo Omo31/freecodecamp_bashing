@@ -10,7 +10,8 @@ then
       sleep 1
     done
     '
-else
+I=$1
+
   echo Include a positive integer as the first argument.
 fi
 
