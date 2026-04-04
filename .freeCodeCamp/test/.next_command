@@ -106,3 +106,5 @@ __vsc_prompt_cmd_original
 [[ 10 -ne 5 ]]
 bad-command
 bad_command
+ls --color=auto echo $?
+ls --color=auto
