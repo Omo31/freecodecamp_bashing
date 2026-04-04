@@ -368,3 +368,5 @@ git commit -m " The bingo program added"
 git push
 git status
 clear
+./bingo.sh 3
+./bingo.sh 3
