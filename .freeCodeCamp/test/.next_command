@@ -202,3 +202,5 @@ clear
 clear
 ./countdown.sh 3
 ./countdown.sh 1
+clear
+help while
