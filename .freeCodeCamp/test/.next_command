@@ -147,3 +147,13 @@ git remote add origin https://github.com/Omo31/freecodecamp_bashing.git
 git branch -M main
 git push -u origin main
 clear
+./countdown.sh 5
+./countdown.sh 9
+clear
+./countdown.sh 9
+./countdown.sh 17
+1
+./countdown.sh 1
+./countdown.sh 0
+clear
+./countdown.sh 10
