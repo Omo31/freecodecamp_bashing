@@ -188,3 +188,11 @@ clear
 ./countdown.sh 16
 ./countdown.sh 16
 clear
+./countdown.sh 16
+./countdown.sh 16
+clear
+./countdown.sh 14
+clear
+./countdown.sh 14
+clear
+./countdown.sh 3
