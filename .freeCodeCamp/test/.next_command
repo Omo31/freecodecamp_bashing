@@ -179,3 +179,12 @@ man sleep
 clear
 man sleep
 sleep 3
+./countdown.sh 12
+sleep 1
+./countdown.sh 16
+clear
+./countdown.sh 16
+./countdown.sh 16
+./countdown.sh 16
+./countdown.sh 16
+clear
