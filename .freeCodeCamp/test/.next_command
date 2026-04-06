@@ -587,3 +587,7 @@ echo $@
 clear
 echo ${ARR[$*]}
 echo ${ARR[*]}
+declare -p
+declare -p list
+declare -p ARRAY
+declare -p ARR
