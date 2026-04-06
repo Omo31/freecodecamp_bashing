@@ -562,3 +562,6 @@ __vsc_prompt_cmd_original
 clear
 ./bingo.sh
 ./bingo.sh
+clear
+git status
+git add .
