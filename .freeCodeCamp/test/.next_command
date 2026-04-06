@@ -575,3 +575,15 @@ ARR=("a", "b" "c")
 ARR=("a" "b" "c")
 echo $(ARR[1])
 echo ${ARR[1]}
+echo $*
+echo $*
+echo bingo.sh countdown.sh fortune.sh questionnaire.sh
+clear
+echo $@
+bingo.sh countdown.sh fortune.sh questionnaire.sh
+./fortune.sh
+echo ${ARR[1]}
+echo $@
+clear
+echo ${ARR[$*]}
+echo ${ARR[*]}
