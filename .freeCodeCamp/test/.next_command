@@ -571,3 +571,5 @@ clear
 touch fortune.sh
 chmod +x fortune.sh
 ./fortune.sh
+ARR=("a", "b" "c")
+ARR=("a" "b" "c")
