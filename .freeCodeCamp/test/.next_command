@@ -569,3 +569,4 @@ git commit -m "Done with bingo program"
 git push
 clear
 touch fortune.sh
+chmod +x fortune.sh
