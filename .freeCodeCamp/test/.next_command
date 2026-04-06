@@ -418,3 +418,6 @@ echo $I
 clear
 echo $I
 $(( I + 4 ))
+eco $(( I + 4 ))
+clear
+echo $(( I + 4 ))
