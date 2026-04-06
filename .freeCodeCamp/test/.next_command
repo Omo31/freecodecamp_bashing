@@ -565,3 +565,7 @@ clear
 clear
 git status
 git add .
+git commit -m "Done with bingo program"
+git push
+clear
+touch fortune.sh
