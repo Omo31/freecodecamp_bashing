@@ -402,3 +402,9 @@ echo I=0
 I=0
 echo I
 echo $I
+clear
+echo $I
+clear
+I=0
+echo $I
+(( I++ ))
