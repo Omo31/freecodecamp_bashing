@@ -411,3 +411,5 @@ echo $I
 echo $I
 clear
 help let
+clear
+(( I += 10 ))
