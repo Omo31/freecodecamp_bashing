@@ -423,3 +423,4 @@ clear
 echo $(( I + 4 ))
 echo I
 echo $I
+J=$(( I - 6 ))
