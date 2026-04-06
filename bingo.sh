@@ -21,7 +21,6 @@ TEXT="The next number is, "
   then
     echo $TEXT G:$NUMBER
   else 
-  
     echo $TEXT O:$NUMBER
   fi
     
