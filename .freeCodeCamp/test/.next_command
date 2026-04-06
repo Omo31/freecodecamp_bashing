@@ -415,3 +415,6 @@ clear
 (( I += 10 ))
 echo I
 echo $I
+clear
+echo $I
+$(( I + 4 ))
