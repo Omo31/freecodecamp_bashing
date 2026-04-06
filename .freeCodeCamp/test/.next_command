@@ -475,3 +475,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo $(( J bingo.sh countdown.sh questionnaire.sh 5 + 25 ))
 echo $J
+declare -p
