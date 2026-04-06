@@ -493,3 +493,6 @@ echo $(( RANDOM % 75 + 1 ))
 echo $(( RANDOM % 75 + 1 ))
 echo $(( RANDOM % 75 + 1 ))
 clear
+./bingo.sh
+__vsc_prompt_cmd_original
+./bingo.sh
