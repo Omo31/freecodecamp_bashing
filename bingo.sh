@@ -7,3 +7,5 @@ modulus operator to make it in the range you want. In your script, change the NU
 
 NUMBER=$(( RANDOM % 75 + 1 ))
 echo $NUMBER
+
+TEXT="The next number is, "
