@@ -591,3 +591,17 @@ declare -p
 declare -p list
 declare -p ARRAY
 declare -p ARR
+ARR=("a" "b" "c")clear
+clear
+./fortune.sh
+./fortune.sh $RESPONSES[5]
+echo $(RESPONSES[5])
+./fortune.sh $(RESPONSES[5])
+./fortune.sh
+./fortune.sh 5
+./fortune.sh $(RESPONSES[5])
+./fortune.sh $(RESPONSES[$*])
+./fortune.sh -a $(RESPONSES[$*])
+clear
+./fortune.sh
+./fortune.sh
