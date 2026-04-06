@@ -479,3 +479,11 @@ declare -p
 clear
 declare -p J
 declare -p RANDOM
+echo Random % 75
+clear
+echo RANDOM % 75
+clear
+echo $RANDOM % 75
+echo RANDOM % 75
+clear
+echo $(( RANDOM % 75 ))
