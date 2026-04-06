@@ -605,3 +605,7 @@ echo $(RESPONSES[5])
 clear
 ./fortune.sh
 ./fortune.sh
+clear
+clear
+./fortune.sh
+./fortune.sh
