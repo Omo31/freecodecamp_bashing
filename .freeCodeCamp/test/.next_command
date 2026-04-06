@@ -526,3 +526,8 @@ clear
 ./bingo.sh
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
+CLEAR
+clear
+./bingo.sh
+rm things.sh
