@@ -400,3 +400,5 @@ clear
 ./bingo.sh
 echo I=0
 I=0
+echo I
+echo $I
