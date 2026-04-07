@@ -666,3 +666,4 @@ __vsc_prompt_cmd_original
 clear
 [[ "hello world" =~ ^hw\.+d$ ]]
 [[ "hello world" =~ ^h.+d$ ]]
+VAR="hello world"
