@@ -866,3 +866,4 @@ clear
 help
 clear
 help type
+type echo
