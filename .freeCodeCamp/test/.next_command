@@ -874,3 +874,4 @@ type bash
 clear
 type bash
 type psql
+type ./five.sh
