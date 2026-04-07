@@ -646,3 +646,4 @@ $?
 __vsc_prompt_cmd_original
 clear
 ./fortune.sh
+help [[ expression ]]~
