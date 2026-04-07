@@ -641,3 +641,7 @@ help
 help untill
 clear
 help until
+$?
+./fortune.sh $?
+__vsc_prompt_cmd_original
+clear
