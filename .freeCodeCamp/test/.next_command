@@ -645,3 +645,4 @@ $?
 ./fortune.sh $?
 __vsc_prompt_cmd_original
 clear
+./fortune.sh
