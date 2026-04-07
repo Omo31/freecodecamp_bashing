@@ -632,3 +632,5 @@ help
 help function
 clear
 help function
+clear
+./fortune.sh
