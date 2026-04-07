@@ -609,3 +609,9 @@ clear
 clear
 ./fortune.sh
 ./fortune.sh
+./fortune.sh -a $(RESPONSES[$*])
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+clear
