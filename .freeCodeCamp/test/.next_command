@@ -864,3 +864,5 @@ clear
 ./five.sh
 clear
 help
+clear
+help type
