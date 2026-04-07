@@ -871,3 +871,6 @@ type read
 type if
 type then
 type bash
+clear
+type bash
+type psql
