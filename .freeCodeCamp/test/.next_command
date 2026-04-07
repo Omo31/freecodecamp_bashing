@@ -696,3 +696,7 @@ clear
 clear
 [[ test? =~ \?$ ]]
 [[ test? =~ \?$ ]]
+[[ test? =~ \?$ ]]
+[[ test? =~ \?$ ]]
+clear
+[[ test? =~ \?$ ]]
