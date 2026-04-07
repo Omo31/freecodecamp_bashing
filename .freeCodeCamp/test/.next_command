@@ -653,3 +653,8 @@ clear
 [[ hello == hello ]]
 [[ hello == world ]]
 [[ hello =~ el ]]
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+clear
+__vsc_prompt_cmd_original
+[[ "hello world" =~ "lo wor" ]]
