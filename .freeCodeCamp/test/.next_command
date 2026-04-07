@@ -867,3 +867,4 @@ help
 clear
 help type
 type echo
+type read
