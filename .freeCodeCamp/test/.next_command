@@ -667,3 +667,8 @@ clear
 [[ "hello world" =~ ^hw\.+d$ ]]
 [[ "hello world" =~ ^h.+d$ ]]
 VAR="hello world"
+ccho VAR
+ccho $VAR
+clear
+echo VAR
+echo $VAR
