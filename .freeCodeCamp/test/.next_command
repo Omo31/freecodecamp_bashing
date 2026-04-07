@@ -622,3 +622,10 @@ clear
 ./fortune.sh
 ./fortune.sh
 clear
+./fortune.sh
+./fortune.sh
+./fortune.sh
+clear
+clear
+help ARR
+help
