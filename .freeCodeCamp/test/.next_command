@@ -683,3 +683,6 @@ clear
 __vsc_prompt_cmd_original
 [[ $VAR =~ "hello world" ]]
 [[ $VAR == "hello world" ]]
+clear
+[[ $VAR == "hello world" ]]
+[[ $VAR =~ \?$ ]]
